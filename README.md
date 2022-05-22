@@ -1,2 +1,2 @@
 # CodigosPython
- Códigos feitos através curso em Vídeo
+ Códigos feitos através do curso em Vídeo
